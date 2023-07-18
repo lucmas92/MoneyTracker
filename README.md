@@ -23,8 +23,7 @@ MoneyTracker è un'applicazione per la gestione delle finanze personali che cons
 **Vuetify** è una libreria di componenti UI basata su Material Design che fornisce una vasta gamma di componenti predefiniti, come bottoni, modali, tabelle e form, che facilitano la creazione di un'interfaccia coerente e attraente per l'applicazione.
 
 **Firestore** è un database NoSQL basato su cloud fornito da Firebase, che viene utilizzato per archiviare e gestire i dati delle transazioni. Firestore offre funzionalità di sincronizzazione in tempo reale, consentendo agli utenti di visualizzare immediatamente le modifiche apportate alle transazioni da parte di altri utenti.
-
-
+### Screenshot
 ![Alt text](https://i.ibb.co/kDPb6H2/Screenshot-20230718-222110.png "Home")
 ![Alt text](https://i.ibb.co/X80GkTF/Screenshot-20230718-222223.png "Add")
 ![Alt text](https://i.ibb.co/QNv1cBz/Screenshot-20230718-222237.png "Settings")
