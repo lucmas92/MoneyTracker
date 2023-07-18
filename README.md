@@ -12,7 +12,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run build && npx cap copy && npx cap sync android
 ```
 
 ### Customize configuration
